@@ -1,2 +1,0 @@
-this is the first and only line on our master branch
-this is the second line on NewFeaturesForFutureMajor branch
